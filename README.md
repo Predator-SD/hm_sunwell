@@ -137,3 +137,7 @@ Node.js port by Matthias Klein <matthias@klein.pw>
 Sunwell is licensed
 [MIT](http://choosealicense.com/licenses/mit/). The full license text is
 available in the `LICENSE` file in the respective implementations' folder.
+
+# This is not a standalone project!
+
+[hm_sunwell](https://github.com/farb3yonddriv3n/hm_sunwell) is part of [hearthmod software stack](https://github.com/hearthmod/hearthmod)
